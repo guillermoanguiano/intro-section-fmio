@@ -27,7 +27,7 @@ Phone![](./captures/phone.png)
 
 ### Continued development
 
-I think my JS is stronger than my CSS, so I'd to improve my CSS 
+I think my JS is stronger than my CSS, so I'd like to improve my CSS 
 
 ## Author
 
